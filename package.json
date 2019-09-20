@@ -1,0 +1,30 @@
+{
+  "name": "sdenni.github.io",
+  "version": "1.0.0",
+  "description": "Informasi dan Dokumentasi Pengetahuan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdenni/sdenni.github.io.git"
+  },
+  "keywords": [
+    "informasi",
+    "dokumentasi",
+    "vue",
+    "database",
+    "php",
+    "konsep"
+  ],
+  "author": "Denni Septiyaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdenni/sdenni.github.io/issues"
+  },
+  "homepage": "https://github.com/sdenni/sdenni.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
